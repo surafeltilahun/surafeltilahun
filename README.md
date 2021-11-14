@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @surafeltilahun
 
- Whenever the opportunity arises, I like to keep learning and upskilling myself. Please contact me if you are interested in collaborating on any interesting data science work.
-
+It is imperative to me to keep learning and upgrading myself whenever the opportunity arises. If you are interested in collaborating on any interesting data science projects, please contact me.
 
